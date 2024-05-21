@@ -1,1 +1,2 @@
 Bu dosya test2.txt dosyasıdır.
+test2.txt dosyasını est-branch'indeyken değiştirdim.
